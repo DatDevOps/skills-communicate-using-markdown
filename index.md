@@ -16,3 +16,7 @@ var sum = first + second;
 
 ***This is italized nad bold***
 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
